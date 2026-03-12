@@ -43,6 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+<img width="1917" height="1016" alt="Edm Experiment - 1 1 1" src="https://github.com/user-attachments/assets/79e31c92-b9fb-4106-874e-a24b4d1f9462" />
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
